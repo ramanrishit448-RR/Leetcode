@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
