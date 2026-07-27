@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
