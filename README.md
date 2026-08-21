@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0278-first-bad-version) |
+| [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Interactive
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Array
 |  |
 | ------- |
@@ -40,14 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
