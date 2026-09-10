@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0457-circular-array-loop) |
 | [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0962-maximum-width-ramp](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0143-reorder-list) |
+| [0962-maximum-width-ramp](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0313-super-ugly-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
