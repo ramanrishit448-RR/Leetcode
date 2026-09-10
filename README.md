@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -83,5 +85,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
