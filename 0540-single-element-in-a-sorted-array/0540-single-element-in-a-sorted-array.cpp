@@ -1,15 +1,21 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int low = 0, high = nums.size() - 1;
-        while (low < high) {
-            int mid = low + (high - low) / 2;
+        int left = 0, right = nums.size() - 1;
+        
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            
+            // Check if mid and its paired index hold the same value
             if (nums[mid] == nums[mid ^ 1]) {
-                low = mid + 1;
+                // We are still in the left half, move right
+                left = mid + 1;
             } else {
-                high = mid;
+                // We are in the right half or at the single element
+                right = mid;
             }
         }
-        return nums[low];
+        
+        return nums[left];
     }
 };
