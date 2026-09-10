@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0457-circular-array-loop) |
 | [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -162,5 +165,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
