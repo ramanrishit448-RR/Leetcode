@@ -19,7 +19,9 @@ public:
             sum += arr[i];
             sum -= arr[i - k];
 
-            if (sum >= k * threshold) {
+            double avg = (double)sum /k; // Requires type casting and floating-point division
+            
+            if (avg >= threshold) {
                 count++;
             }
         }
