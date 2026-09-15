@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0457-circular-array-loop) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
