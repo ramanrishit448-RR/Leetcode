@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0301-remove-invalid-parentheses](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -240,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1934-confirmation-rate) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
