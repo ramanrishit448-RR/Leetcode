@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0457-circular-array-loop) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ramanrishit448-RR/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ramanrishit448-RR/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ramanrishit448-RR/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
