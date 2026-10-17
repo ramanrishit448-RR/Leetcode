@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ramanrishit448-RR/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Linked List
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ramanrishit448-RR/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
