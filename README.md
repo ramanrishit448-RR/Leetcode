@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
@@ -401,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
