@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0202-happy-number) |
 | [0313-super-ugly-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0313-super-ugly-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0313-super-ugly-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0704-binary-search) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
