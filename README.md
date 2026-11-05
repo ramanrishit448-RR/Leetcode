@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
