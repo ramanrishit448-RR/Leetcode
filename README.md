@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1882-process-tasks-using-servers](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ramanrishit448-RR/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1882-process-tasks-using-servers](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
