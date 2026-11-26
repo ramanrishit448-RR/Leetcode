@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ramanrishit448-RR/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ramanrishit448-RR/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
